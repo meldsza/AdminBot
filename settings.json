@@ -1,0 +1,13 @@
+{
+    "owners": [
+        "184547913509109761"
+    ],
+    "moderators": [],
+    "identifier": "?",
+    "delimiter": " ",
+    "password": "",
+    "token": "false",
+    "slugs": {
+        "test": "127.0.0.1"
+    }
+}

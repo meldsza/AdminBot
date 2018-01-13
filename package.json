@@ -1,0 +1,30 @@
+{
+  "name": "adminbot",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meldsza/Adminbot.git"
+  },
+  "keywords": [
+    "Bot",
+    "Discord"
+  ],
+  "author": "Melroy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meldsza/Adminbot/issues"
+  },
+  "homepage": "https://github.com/meldsza/Adminbot#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "request": "^2.81.0",
+    "request-promise-native": "^1.0.3",
+    "uws": "^0.14.1",
+    "xml2js": "^0.4.17"
+  }
+}
